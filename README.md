@@ -1,2 +1,2 @@
 # toppersthriftsKE
-A ful e-commerce web application made for thrifting business in Kenya
+A full e-commerce web application made for thrifting business in Kenya
